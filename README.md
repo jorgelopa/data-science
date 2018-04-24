@@ -1,5 +1,4 @@
-Hola, esta es mi primera clase de Data Science
+Repositorio en desarrollo.
 
-Fdo: Jorge Alvarez
-
+:)
 
